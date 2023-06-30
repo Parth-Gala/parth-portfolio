@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/parth-portfolio/static/css/main.10a11fdb.css",
+    "main.js": "/parth-portfolio/static/js/main.5f05876e.js",
+    "static/media/Bannerimgog.png": "/parth-portfolio/static/media/Bannerimgog.e685a4775241299d46de.png",
+    "static/media/IMG_1997.ico": "/parth-portfolio/static/media/IMG_1997.acfd37242fa44600fbd3.ico",
+    "static/media/clothing.jpg": "/parth-portfolio/static/media/clothing.dd032ac5eb3bd1f087b4.jpg",
+    "static/media/arduino.png": "/parth-portfolio/static/media/arduino.1579927eb760a3a22316.png",
+    "static/media/what next.jpg": "/parth-portfolio/static/media/what next.1a1cd393c33d7589eb1d.jpg",
+    "static/media/portfolio.jpg": "/parth-portfolio/static/media/portfolio.68073d5aa8bc12f02678.jpg",
+    "static/media/projectOne.jpg": "/parth-portfolio/static/media/projectOne.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/parth-portfolio/index.html",
+    "main.10a11fdb.css.map": "/parth-portfolio/static/css/main.10a11fdb.css.map",
+    "main.5f05876e.js.map": "/parth-portfolio/static/js/main.5f05876e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a11fdb.css",
+    "static/js/main.5f05876e.js"
+  ]
+}

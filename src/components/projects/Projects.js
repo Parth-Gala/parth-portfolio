@@ -46,7 +46,8 @@ const Projects = () => {
           title="Portfolio Website"
           des="Created a personal portfolio website in Reactjs as a part of learning and creativity"
           src={portfolioimg}
-          gitlink={""}
+          gitlink={"https://github.com/Parth-Gala/parth-portfolio"}
+          hostlink={"https://parth-gala.github.io/parth-portfolio/"}
         />
         <ProjectCard
           title="Upcoming Next"

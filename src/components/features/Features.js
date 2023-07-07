@@ -11,36 +11,39 @@ const Features = () => {
       id="features"
       className="w-full py-20 border-b-[1px] border-b-black"
     >
+      <div className="flex justify-center items-center text-center">
       <Title title="Features" des="What I Do" />
+      </div>
+      
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10 xl:gap-20">
         <Cards
           title="Application Development"
-          des="  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi amet molestias eius aut atque minima nam. Laudantium numquam corporis earum doloribus molestiae."
+          des="Flutter-learned developer adept in application development. Utilizes Flutter framework to create cross-platform apps with visually appealing UI and smooth performance for enhanced user experience."
           icon={<AiFillAppstore/>}
         />
         <Cards
           title="Web Development"
-          des="  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi amet molestias eius aut atque minima nam. Laudantium numquam corporis earum doloribus molestiae."
+          des="Skilled web developer proficient in HTML, CSS, JavaScript, and React.js. Creates dynamic and interactive websites with modern designs, seamless navigation, and responsive layouts for optimal user engagement with integrated backend."
           icon={<FaGlobe/>}
         />
         <Cards
           title="Robotics"
-          des="  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi amet molestias eius aut atque minima nam. Laudantium numquam corporis earum doloribus molestiae."
+          des="Experienced in robotics with Arduino proficiency. Participated in DD Robocon competition, integrating IP with embedded coding to program and operate robots for diverse functionalities."
           icon={<AiFillRobot/>}
         />
         <Cards
           title="Artificial Intelligence"
-          des="  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi amet molestias eius aut atque minima nam. Laudantium numquam corporis earum doloribus molestiae."
+          des="Dedicated AI enthusiast pursuing an honors degree in Artificial Intelligence. Extensive coursework in data science, AI, machine learning, and neural networks for comprehensive understanding and application in real-world scenarios."
           icon={<FaBrain/>}
         />
         <Cards
           title="Investments"
-          des="  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi amet molestias eius aut atque minima nam. Laudantium numquam corporis earum doloribus molestiae."
+          des="Active investor in stocks and mutual funds. Implements a diversified investment strategy to capitalize on market opportunities and achieve long-term financial growth and wealth accumulation."
           icon={<AiOutlineStock/>}
         />
         <Cards
           title="UI Designs"
-          des="  Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem sequi amet molestias eius aut atque minima nam. Laudantium numquam corporis earum doloribus molestiae."
+          des="Proficient in photo editing, transforming images with precision and creativity. Also skilled in crafting UI designs using Adobe Photoshop and Figma, delivering visually stunning and user-friendly interfaces."
           icon={<SiFigma/>}
         />
       </div>

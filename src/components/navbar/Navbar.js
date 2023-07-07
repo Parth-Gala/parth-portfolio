@@ -49,12 +49,12 @@ const Navbar = () => {
           <FiMenu />
         </span>
         {showMenu && (
-          <div className="w-[80%] h-screen overflow-scroll absolute top-0 left-0 bg-gray-800 p-4 scrollbar-hide">
+          <div className="w-[80%] h-screen overflow-scroll absolute top-0 -left-3 bg-gray-800 p-4 scrollbar-hide">
             <div className="flex flex-col gap-8 py-2">
               <div>
                 <div className="flex flex-row  gap-4 items-center">
                   <img src={logo} alt="logo" className=" w-16 h-16" />
-                  <p className=" text-4xl text-designColor">P.G</p>
+                  <p className=" text-2xl text-designColor">Parth Gala</p>
                 </div>
                 <p className="text-sm text-gray-400 mt-2 border-t-[1px] border-t-gray-600">
                 I am eager and exhilarated to enhance my current skills, augment my knowledge, and embrace industry challenges as an inquisitive learner.

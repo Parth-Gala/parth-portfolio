@@ -8,7 +8,8 @@ import {
   FaDiscord,
   FaInstagram,
   FaReact,
-  FaSnapchat
+  FaSnapchat,
+  FaJava
 } from "react-icons/fa";
 
 const LeftBanner = () => {
@@ -54,7 +55,7 @@ const LeftBanner = () => {
         <div className="flex flex-col xl:flex-row gap-6 lgl:gap-10 justify-between">
           <div>
             <h2 className=" text-base uppercase font-titleFont mb-4">
-              Find me in
+              Find me on
             </h2>
             <div className="flex gap-4">
               <span className="bannerIcon">
@@ -77,24 +78,24 @@ const LeftBanner = () => {
             </h2>
             <div className="flex gap-4">
               <span className="bannerIcon">
-                <SiC />
+                <SiC onClick={()=> window.open('https://www.w3schools.com/cpp/cpp_intro.asp')}/>
               </span>
               <span className="bannerIcon">
-                <SiPython />
+                <SiPython onClick={()=> window.open('https://www.geeksforgeeks.org/python-programming-language/')}/>
               </span>
               <span className="bannerIcon">
-                <SiFlutter />
+                <FaJava onClick={()=> window.open('https://www.youtube.com/watch?v=BGTx91t8q50&ab_channel=Telusko')}/>
               </span>
             </div>
             <div className="flex gap-4 mt-4">
               <span className="bannerIcon">
-                <FaReact />
+                <FaReact onClick={()=> window.open('https://www.w3schools.com/REACT/DEFAULT.ASP')}/>
               </span>
               <span className="bannerIcon">
-                <SiTailwindcss />
+                <SiTailwindcss onClick={()=> window.open('https://tailwindcss.com/')}/>
               </span>
               <span className="bannerIcon">
-                <SiFirebase />
+                <SiFirebase onClick={()=> window.open('https://firebase.google.com/docs/')}/>
               </span>
             </div>
           </div>

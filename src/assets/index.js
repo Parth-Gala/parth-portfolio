@@ -6,4 +6,5 @@ import clothingimg from "./images/clothing.jpg"
 import voicebotimg from "./images/pythonbot.png"
 import portfolioimg from "./images/portfolio.jpg"
 import whatnextimg from "./images/what next.jpg"
-export { logo, bannerimg, projectOne, projectTwo, clothingimg, voicebotimg, portfolioimg, whatnextimg};
+import bannerimg2 from "./images/Bannerimgnew.png"
+export { logo, bannerimg, bannerimg2, projectOne, projectTwo, clothingimg, voicebotimg, portfolioimg, whatnextimg};

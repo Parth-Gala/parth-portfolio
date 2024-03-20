@@ -42,29 +42,89 @@ const Experience = () => {
       <div>
         <div className="py-12 font-titleFont">
           <p className="text-sm text-designColor tracking-[4px]">
-            Community service
+            Skill Enhancement
           </p>
-          <h2 className="text-4xl font-bold">Voluntary Work</h2>
+          <h2 className="text-4xl font-bold">Certifications</h2>
         </div>
         <div>
           <div className="w-full mt-14 h-[1000px] border-l-[6px] border-l-black flex flex-col gap-10 border-opacity-30">
             <ResumeCard
-              title="Jivdaya Malad"
-              result="Animal Rescuer"
-              subTitle="Birds & Animal Rescue"
-              des="Field worker specializing in emergency response for saving and providing basic treatment to birds and animals in emergency. Managed support line, coordinating rescue efforts and deploying personnel for prompt assistance"
+              title="Building RESTful APIs using Node.js and Express"
+              result={
+                <span
+                  onClick={() =>
+                    window.open(
+                      "https://www.coursera.org/account/accomplishments/certificate/WRL2PKUCEHLN"
+                    )
+                  }
+                  style={{ cursor: "pointer" }}
+                >
+                  View Here
+                </span>
+              }
+              subTitle="NIIT"
+              des="Certificate for completing the course on building RESTful APIs using Node.js and Express from NIIT."
             />
             <ResumeCard
-              title="Private Classes"
-              subTitle="Tutor and Mentor"
-              result="Tutor"
-              des="Tutored Class 8 and 9 students in Maths and Science, developing personalized lesson plans and achieving notable grade improvements along with my mother"
+              title="Building Modern Node.js Applications on AWS"
+              result={
+                <span
+                  onClick={() =>
+                    window.open(
+                      "https://www.coursera.org/account/accomplishments/certificate/UYWRBK4CEVLX"
+                    )
+                  }
+                  style={{ cursor: "pointer" }}
+                >
+                  View Here
+                </span>
+              }
+              subTitle="Amazon Web Services"
+              des="Certificate for completing the course on building modern Node.js applications on AWS from Amazon Web Services."
             />
             <ResumeCard
-              title="Upcoming Work"
-              subTitle=""
-              des="Looking forward for more such wroks"
+              title="Developing Back-End Apps with Node.js and Express"
+              result={
+                <span
+                  onClick={() =>
+                    window.open(
+                      "https://www.coursera.org/account/accomplishments/certificate/AF9G8R4VWD9U"
+                    )
+                  }
+                  style={{ cursor: "pointer" }}
+                >
+                  View Here
+                </span>
+              }
+              subTitle="IBM"
+              des="Certificate for completing the course on developing back-end apps with Node.js and Express from IBM."
             />
+            <ResumeCard
+              title="Developing Front-End Apps with React"
+              result={
+                <span
+                  onClick={() =>
+                    window.open(
+                      "https://www.coursera.org/account/accomplishments/certificate/5QSRYFMYVDWD"
+                    )
+                  }
+                  style={{ cursor: "pointer" }}
+                >
+                  View Here
+                </span>
+              }
+              subTitle="IBM"
+              des="Certificate for completing the course on developing front-end apps with React from IBM."
+            />
+            {/* <ResumeCard
+        title="UI Design Templates"
+        result="Figma"
+        subTitle=""
+        des="Various UI design templates created using Figma, including:
+        - Travel Application: Mobile UI design for a travel application with interactive pages.
+        - Lawyers LinkedIn: Web UI design for a seamless Lawyer-Client interface like LinkedIn.
+        - Farmers App: Mobile UI design for creating a Farmers App to help marginal farmers avail different facilities."
+      /> */}
           </div>
         </div>
       </div>

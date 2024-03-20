@@ -41,7 +41,37 @@ const Education = () => {
         </div>
       </div>
       {/* part two */}
+
       <div>
+        <div className="py-12 font-titleFont">
+          <p className="text-sm text-designColor tracking-[4px]">
+            Community service
+          </p>
+          <h2 className="text-4xl font-bold">Voluntary Work</h2>
+        </div>
+        <div>
+          <div className="w-full mt-14 h-[1000px] border-l-[6px] border-l-black flex flex-col gap-10 border-opacity-30">
+            <ResumeCard
+              title="Jivdaya Malad"
+              result="Animal Rescuer"
+              subTitle="Birds & Animal Rescue"
+              des="Field worker specializing in emergency response for saving and providing basic treatment to birds and animals in emergency. Managed support line, coordinating rescue efforts and deploying personnel for prompt assistance"
+            />
+            <ResumeCard
+              title="Private Classes"
+              subTitle="Tutor and Mentor"
+              result="Tutor"
+              des="Tutored Class 8 and 9 students in Maths and Science, developing personalized lesson plans and achieving notable grade improvements along with my mother"
+            />
+            <ResumeCard
+              title="Upcoming Work"
+              subTitle=""
+              des="Looking forward for more such wroks"
+            />
+          </div>
+        </div>
+      </div>
+      {/* <div>
         <div className=" py-6 lgl:py-12 font-titleFont">
           <p className="text-sm text-designColor tracking-[4px]">
             2021-present
@@ -71,7 +101,7 @@ const Education = () => {
             />
           </div>
         </div>
-      </div>
+      </div> */}
     </motion.div>
   );
 };

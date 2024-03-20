@@ -1,7 +1,5 @@
 import logo from "./images/IMG_1997.ico";
 import bannerimg from "./images/Bannerimgog.png";
-import projectOne from "./images/projectOne.jpg";
-import projectTwo from "./images/arduino.png";
 import clothingimg from "./images/clothing.jpg";
 import voicebotimg from "./images/pythonbot.png";
 import portfolioimg from "./images/portfolio.jpg";
@@ -11,4 +9,4 @@ import Healthify from "./images/Healthify.png";
 import Vidhik from "./images/Vidhik.png";
 import Prayaas from "./images/Prayaas.png";
 import Pandas from "./images/Pandas.png";
-export { Healthify, Vidhik, Pandas, Prayaas, logo, bannerimg, bannerimg2, projectOne, projectTwo, clothingimg, voicebotimg, portfolioimg, whatnextimg};
+export { Healthify, Vidhik, Pandas, Prayaas, logo, bannerimg, bannerimg2, clothingimg, voicebotimg, portfolioimg, whatnextimg};

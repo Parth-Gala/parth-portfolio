@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/parth-portfolio/static/css/main.08b20738.css",
-    "main.js": "/parth-portfolio/static/js/main.9f80f844.js",
+    "main.css": "/parth-portfolio/static/css/main.35fd3871.css",
+    "main.js": "/parth-portfolio/static/js/main.94b8269b.js",
+    "static/media/Pandas.png": "/parth-portfolio/static/media/Pandas.8cbd727fe2441ab35faf.png",
     "static/media/Bannerimgnew.png": "/parth-portfolio/static/media/Bannerimgnew.26a0ee50fbc3083a61c6.png",
     "static/media/Bannerimgog.png": "/parth-portfolio/static/media/Bannerimgog.e685a4775241299d46de.png",
+    "static/media/Prayaas.png": "/parth-portfolio/static/media/Prayaas.eea9e5d947b6d2f21e5e.png",
+    "static/media/Healthify.png": "/parth-portfolio/static/media/Healthify.3fcf8fe2127179f5140a.png",
     "static/media/IMG_1997.ico": "/parth-portfolio/static/media/IMG_1997.acfd37242fa44600fbd3.ico",
     "static/media/clothing.jpg": "/parth-portfolio/static/media/clothing.dd032ac5eb3bd1f087b4.jpg",
     "static/media/arduino.png": "/parth-portfolio/static/media/arduino.1579927eb760a3a22316.png",
+    "static/media/Vidhik.png": "/parth-portfolio/static/media/Vidhik.7c194730345a622acf18.png",
     "static/media/what next.jpg": "/parth-portfolio/static/media/what next.1a1cd393c33d7589eb1d.jpg",
     "static/media/portfolio.jpg": "/parth-portfolio/static/media/portfolio.68073d5aa8bc12f02678.jpg",
-    "static/media/projectOne.jpg": "/parth-portfolio/static/media/projectOne.1fabe2c8c93632187ee6.jpg",
     "index.html": "/parth-portfolio/index.html",
-    "main.08b20738.css.map": "/parth-portfolio/static/css/main.08b20738.css.map",
-    "main.9f80f844.js.map": "/parth-portfolio/static/js/main.9f80f844.js.map"
+    "main.35fd3871.css.map": "/parth-portfolio/static/css/main.35fd3871.css.map",
+    "main.94b8269b.js.map": "/parth-portfolio/static/js/main.94b8269b.js.map"
   },
   "entrypoints": [
-    "static/css/main.08b20738.css",
-    "static/js/main.9f80f844.js"
+    "static/css/main.35fd3871.css",
+    "static/js/main.94b8269b.js"
   ]
 }

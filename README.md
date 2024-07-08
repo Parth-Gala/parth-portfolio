@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is hosted on [https://parth-gala.github.io/parth-portfolio/](https://parth-gala.github.io/parth-portfolio/)
 
 ## Available Scripts
 

@@ -60,7 +60,7 @@ const LeftBanner = () => {
         <p>
           <button onClick={() =>
                   window.open(
-                    "https://drive.google.com/file/d/1dj2Z5Rr8CcN24D8ZpUB2qv6-aARXGRWU/view?usp=sharing"
+                    "https://docs.google.com/document/d/1u-XXhUyLzkOfO7JMFFL21Oc703guVR8Q/edit?usp=sharing&ouid=109999711739059398334&rtpof=true&sd=true"
                   )
                 } className="bg-cyan-500 border border-designColor text-white font-semibold px-4 py-2 rounded-lg shadow-lg shadow-cyan-700">
             Check out my resume

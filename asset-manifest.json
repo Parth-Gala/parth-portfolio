@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/parth-portfolio/static/css/main.35fd3871.css",
-    "main.js": "/parth-portfolio/static/js/main.94b8269b.js",
+    "main.css": "/parth-portfolio/static/css/main.59128836.css",
+    "main.js": "/parth-portfolio/static/js/main.fcee3a0c.js",
     "static/media/Pandas.png": "/parth-portfolio/static/media/Pandas.8cbd727fe2441ab35faf.png",
     "static/media/Bannerimgnew.png": "/parth-portfolio/static/media/Bannerimgnew.26a0ee50fbc3083a61c6.png",
     "static/media/Bannerimgog.png": "/parth-portfolio/static/media/Bannerimgog.e685a4775241299d46de.png",
@@ -14,11 +14,11 @@
     "static/media/what next.jpg": "/parth-portfolio/static/media/what next.1a1cd393c33d7589eb1d.jpg",
     "static/media/portfolio.jpg": "/parth-portfolio/static/media/portfolio.68073d5aa8bc12f02678.jpg",
     "index.html": "/parth-portfolio/index.html",
-    "main.35fd3871.css.map": "/parth-portfolio/static/css/main.35fd3871.css.map",
-    "main.94b8269b.js.map": "/parth-portfolio/static/js/main.94b8269b.js.map"
+    "main.59128836.css.map": "/parth-portfolio/static/css/main.59128836.css.map",
+    "main.fcee3a0c.js.map": "/parth-portfolio/static/js/main.fcee3a0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.35fd3871.css",
-    "static/js/main.94b8269b.js"
+    "static/css/main.59128836.css",
+    "static/js/main.fcee3a0c.js"
   ]
 }
